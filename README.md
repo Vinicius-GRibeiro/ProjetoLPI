@@ -1,6 +1,6 @@
 # ProjetoLPI
 
-## Objetivo
+## Objetivo do repositório
 Esse repositório tem como objetivo, apresentar a estrutura básica da biblioteca Pandas, do Python.
 
 ## A biblioteca
